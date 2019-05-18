@@ -1,0 +1,11 @@
+G:\Projects\.Net Core\MegaNetICT\Mega.DAL.MSSQL\bin\Debug\netcoreapp2.2\Mega.DAL.MSSQL.deps.json
+G:\Projects\.Net Core\MegaNetICT\Mega.DAL.MSSQL\bin\Debug\netcoreapp2.2\Mega.DAL.MSSQL.dll
+G:\Projects\.Net Core\MegaNetICT\Mega.DAL.MSSQL\bin\Debug\netcoreapp2.2\Mega.DAL.MSSQL.pdb
+G:\Projects\.Net Core\MegaNetICT\Mega.DAL.MSSQL\bin\Debug\netcoreapp2.2\System.Data.SqlClient.dll
+G:\Projects\.Net Core\MegaNetICT\Mega.DAL.MSSQL\bin\Debug\netcoreapp2.2\System.Data.SqlClient.xml
+G:\Projects\.Net Core\MegaNetICT\Mega.DAL.MSSQL\obj\Debug\netcoreapp2.2\Mega.DAL.MSSQL.csproj.CoreCompileInputs.cache
+G:\Projects\.Net Core\MegaNetICT\Mega.DAL.MSSQL\obj\Debug\netcoreapp2.2\Mega.DAL.MSSQL.AssemblyInfoInputs.cache
+G:\Projects\.Net Core\MegaNetICT\Mega.DAL.MSSQL\obj\Debug\netcoreapp2.2\Mega.DAL.MSSQL.AssemblyInfo.cs
+G:\Projects\.Net Core\MegaNetICT\Mega.DAL.MSSQL\obj\Debug\netcoreapp2.2\Mega.DAL.MSSQL.csproj.CopyComplete
+G:\Projects\.Net Core\MegaNetICT\Mega.DAL.MSSQL\obj\Debug\netcoreapp2.2\Mega.DAL.MSSQL.dll
+G:\Projects\.Net Core\MegaNetICT\Mega.DAL.MSSQL\obj\Debug\netcoreapp2.2\Mega.DAL.MSSQL.pdb

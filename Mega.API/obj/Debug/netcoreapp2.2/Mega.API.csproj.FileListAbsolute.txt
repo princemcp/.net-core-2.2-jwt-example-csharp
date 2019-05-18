@@ -1,0 +1,17 @@
+G:\Projects\.Net Core\MegaNetICT\Mega.API\bin\Debug\netcoreapp2.2\Mega.API.deps.json
+G:\Projects\.Net Core\MegaNetICT\Mega.API\bin\Debug\netcoreapp2.2\Mega.API.runtimeconfig.json
+G:\Projects\.Net Core\MegaNetICT\Mega.API\bin\Debug\netcoreapp2.2\Mega.API.runtimeconfig.dev.json
+G:\Projects\.Net Core\MegaNetICT\Mega.API\bin\Debug\netcoreapp2.2\Mega.API.dll
+G:\Projects\.Net Core\MegaNetICT\Mega.API\bin\Debug\netcoreapp2.2\Mega.API.pdb
+G:\Projects\.Net Core\MegaNetICT\Mega.API\obj\Debug\netcoreapp2.2\Mega.API.csprojAssemblyReference.cache
+G:\Projects\.Net Core\MegaNetICT\Mega.API\obj\Debug\netcoreapp2.2\Mega.API.csproj.CoreCompileInputs.cache
+G:\Projects\.Net Core\MegaNetICT\Mega.API\obj\Debug\netcoreapp2.2\Mega.API.RazorAssemblyInfo.cache
+G:\Projects\.Net Core\MegaNetICT\Mega.API\obj\Debug\netcoreapp2.2\Mega.API.RazorAssemblyInfo.cs
+G:\Projects\.Net Core\MegaNetICT\Mega.API\obj\Debug\netcoreapp2.2\Mega.API.AssemblyInfoInputs.cache
+G:\Projects\.Net Core\MegaNetICT\Mega.API\obj\Debug\netcoreapp2.2\Mega.API.AssemblyInfo.cs
+G:\Projects\.Net Core\MegaNetICT\Mega.API\obj\Debug\netcoreapp2.2\Mega.API.RazorTargetAssemblyInfo.cache
+G:\Projects\.Net Core\MegaNetICT\Mega.API\obj\Debug\netcoreapp2.2\Mega.API.dll
+G:\Projects\.Net Core\MegaNetICT\Mega.API\obj\Debug\netcoreapp2.2\Mega.API.pdb
+G:\Projects\.Net Core\MegaNetICT\Mega.API\bin\Debug\netcoreapp2.2\Mega.Entities.dll
+G:\Projects\.Net Core\MegaNetICT\Mega.API\bin\Debug\netcoreapp2.2\Mega.Entities.pdb
+G:\Projects\.Net Core\MegaNetICT\Mega.API\obj\Debug\netcoreapp2.2\Mega.API.csproj.CopyComplete

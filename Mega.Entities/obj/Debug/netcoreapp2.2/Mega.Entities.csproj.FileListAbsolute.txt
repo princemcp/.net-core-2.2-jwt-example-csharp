@@ -1,0 +1,9 @@
+G:\Projects\.Net Core\MegaNetICT\Mega.Entities\bin\Debug\netcoreapp2.2\Mega.Entities.deps.json
+G:\Projects\.Net Core\MegaNetICT\Mega.Entities\bin\Debug\netcoreapp2.2\Mega.Entities.dll
+G:\Projects\.Net Core\MegaNetICT\Mega.Entities\bin\Debug\netcoreapp2.2\Mega.Entities.pdb
+G:\Projects\.Net Core\MegaNetICT\Mega.Entities\obj\Debug\netcoreapp2.2\Mega.Entities.csproj.CoreCompileInputs.cache
+G:\Projects\.Net Core\MegaNetICT\Mega.Entities\obj\Debug\netcoreapp2.2\Mega.Entities.AssemblyInfoInputs.cache
+G:\Projects\.Net Core\MegaNetICT\Mega.Entities\obj\Debug\netcoreapp2.2\Mega.Entities.AssemblyInfo.cs
+G:\Projects\.Net Core\MegaNetICT\Mega.Entities\obj\Debug\netcoreapp2.2\Mega.Entities.dll
+G:\Projects\.Net Core\MegaNetICT\Mega.Entities\obj\Debug\netcoreapp2.2\Mega.Entities.pdb
+G:\Projects\.Net Core\MegaNetICT\Mega.Entities\obj\Debug\netcoreapp2.2\Mega.Entities.csprojAssemblyReference.cache
